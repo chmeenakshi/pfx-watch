@@ -1,0 +1,21 @@
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .logout-button {
+    margin-top: 10px;
+  }
+  
+  .logos {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Media query for smaller screens */
+  @media (max-width: 600px) {
+    .home-container {
+      padding: 10px;
+    }
+  }
